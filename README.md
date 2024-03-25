@@ -1,22 +1,16 @@
 ### Hi there 👋
 
-This is my GitHub page! I'm a FURRY if you couldn't tell.
+I'm Lee Lunbin, but I'm commonly known as Christian Hiland agmost my peers.
+Yes, I am a furry.
+
+![Lee Lunbin][desktop_screeshot]
 
 - 🌱 I’m currently learning: Korean, C, C#
-- 💬 Ask me about: RANDOM THINGS!
-- 📫 How to reach me: 
+- 👯 I’m looking to collaborate on: Desktop apps, and Program tools.
+- 💬 Ask me about: Anything!
+- 📫 How to reach me: hilandchristian112@gmail.com, or leelunbin on Discord.
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'm a furry, I like to code, and I like to play/sleep on VRChat.
 
-<!--
-**ChristianHiland/ChristianHiland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[desktop_screeshot]: Photos/Fursona.jpg
