@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 I'm Lee Lunbin, but I'm commonly known as Christian Hiland agmost my peers.
-Yes, I am a furry.
-
-![Lee Lunbin][desktop_screeshot]
+Yes,
 
 - 🌱 I’m currently learning: Korean, C, C#, Rust.
 - 👯 I’m looking to collaborate on: Desktop apps, and Program tools.
