@@ -8,7 +8,3 @@ Yes,
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: hilandchristian112@gmail.com, or leelunbin on Discord.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm a furry, I like to code, and I like to play/sleep on VRChat.
-
-
-[desktop_screeshot]: Photos/Fursona.jpg
